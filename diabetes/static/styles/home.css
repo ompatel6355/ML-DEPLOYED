@@ -1,0 +1,15 @@
+body{
+    margin:25px;
+    background:rgb(200, 200, 243);
+}
+.container{
+    color:red;
+    background-color:white;
+    display:flex;
+    flex-direction:column;
+    flex-wrap: wrap;
+}
+
+ form{
+    color:rgb(0, 0, 0);
+}
