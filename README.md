@@ -3,15 +3,13 @@ This repository contains projects focused on machine learning model deployment u
 
 Projects Included:
 Diabetes Prediction Model Deployment
-
 Deployed a machine learning model using Flask to predict diabetes based on health metrics.
 Utilized pickle for model serialization and Flask for web interface development.
-Campus Placement Prediction
 
+Campus Placement Prediction
 Developed a model to predict the likelihood of being selected during campus placements.
 Implemented using Python and relevant machine learning libraries.
 Project Name
-
 
 Description of the project, including technologies used and outcomes achieved.
 Technologies Used
