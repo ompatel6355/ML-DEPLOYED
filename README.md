@@ -42,11 +42,17 @@ Project Structure
 
 
 Copy code
+
 ├── app.py           # Flask application script
+
 ├── model.pkl        # Serialized machine learning model
+
 ├── templates/       # HTML templates for web interface
+
 │   └── index.html   # Main HTML file
+
 ├── static/          # CSS
+
 └── README.md        # Project README file
 Future Improvements
 Enhance UI/UX design with CSS for a more user-friendly experience.
