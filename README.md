@@ -12,6 +12,7 @@ Developed a model to predict the likelihood of being selected during campus plac
 Implemented using Python and relevant machine learning libraries.
 Project Name
 
+
 Description of the project, including technologies used and outcomes achieved.
 Technologies Used
 Python
@@ -20,6 +21,7 @@ Pickle (for model serialization)
 HTML/CSS (where applicable)
 Installation and Usage
 Clone the repository:
+
 
 bash
 Copy code
@@ -37,13 +39,14 @@ python app.py
 Access the application in your web browser at http://localhost:5000.
 
 Project Structure
-php
+
+
 Copy code
 ├── app.py           # Flask application script
 ├── model.pkl        # Serialized machine learning model
 ├── templates/       # HTML templates for web interface
 │   └── index.html   # Main HTML file
-├── static/          # CSS, JavaScript, or other static files (if applicable)
+├── static/          # CSS
 └── README.md        # Project README file
 Future Improvements
 Enhance UI/UX design with CSS for a more user-friendly experience.
