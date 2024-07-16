@@ -54,8 +54,12 @@ Copy code
 ├── static/          # CSS
 
 └── README.md        # Project README file
+
 Future Improvements
+
 Enhance UI/UX design with CSS for a more user-friendly experience.
+
 Expand model capabilities and accuracy through further data preprocessing and feature engineering.
 Contributing
+
 Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change.
